@@ -56,6 +56,8 @@ Stereoscope view of the front entrance to the Texas State Penitentiary before th
 **Significance to this exhibit:**
 The stereoscope image of the Texas State Penitentiary from Sam Houston State University creates a space to think about the history and infrastructure of incarceration. Handheld steroscopes were popular tools for entertainment in the mid-to-late 1800s and provided intricate and immersive images, [much like present-day virtual reality](https://www.smithsonianmag.com/innovation/sterographs-original-virtual-reality-180964771/). Thinking of this history of stereoscopic media can present a way of thinking through the prison and it's infrastructure as having an entertainment value, which perhaps contributes to the view of the prisoner as less-than. The focus on the architecture of the prison itself creates a space for thinking about structures of power, and the way the building is presenting in a particular way.
 
+
+
 **3\. [Texas After Violence Project: Interview with Keith Brooks](http://av.lib.utexas.edu/index.php?title=TAVP:Keith_Brooks_1)**
 
 ![TAVP Keith Brooks video image](/images/TAVP-Keith-Brooks.png)
@@ -74,6 +76,8 @@ Keith Brooks, a youth minister, small business owner, and native of Fort Worth, 
 **Significance to this exhibit:**
 Keith Brooks was imprisoned himself, and his father was the first man to ever be executed by lethal injection. The video interviews of Brooks concern his own experiences of imprisonment, experiences with civil rights and segregation, and the memories and experiences he has of his father's imprisonment. Brooks also discusses his views of the ethics of the death penalty and discusses his father's lack of fair trial. 
 
+
+
 **4\. [Texas After Violence Project: Interview with Lauren Johnson](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)**
 
 ![TAVP Lauren Johnson video image](/images/TAVP-Lauren-Johnson.png)
@@ -91,6 +95,8 @@ Lauren Johnson is an advocate for incarcerated people who was formerly incarcera
 
 **Significance to this exhibit:**
 This video recording covers Lauren Johnson's experiences with imprisonment, including the treatment she received in prison custody as a pregnant woman. Johnson discusses growing up in Austin in extreme poverty, her struggles with addiction, her imprisonments and release, and the justice and advocacy work for prisoners that she currently does. Topics in this recording relate to fair treatment of prisoners, poverty, the prison infrastructure and pipeline, and advocacy work for prison reform.
+
+
 
 **5\. [Virgil01 (newspaper clipping from Austin City Gazette about fugitve slaves)](https://digital.sfasu.edu/digital/collection/RSP/id/6468/rec/203)**
 
