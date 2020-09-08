@@ -1,4 +1,4 @@
-# Issues of Incarceration in the Southern United States: A mini exhibit
+# Issues of Incarceration in the Southern United States: A Mini Exhibit
 
 ## A note on this exhibit: 
 
@@ -45,13 +45,13 @@ Description from Institution:
 Stereoscope view of the front entrance to the Texas State Penitentiary before the high wall was built to surround the entire prison property. The large three-story building to the left was erected by Ward, Dewey & Company, lessees, when they took charge. After this building burned, the lot was cleared of debris and the street moved from its then location to sixty or seventy feet further west (over the site of the Superintendent's home, which also was destroyed by the fire). The wall now surrounding the prison was located far enough West to replace what was formerly the street behind and inside the prison walls. That necessitated moving in the entrance gate shown in the photograph to its present location. Before this entrance gate was placed across the street, public passage was open all the way through to the city limits on the east side of town. Ward, Dewey & Co. probably erected the entrance gate and closed the street when they came to Huntsville to operate the Penitentiary.
 
 
-Item 3
+Item 3 -- Texas After Violence oral history -- family/affect
+
+
+Item 4 -- Texas After Violence Oral history -- formerly imprisoned
 Title:
 
 
-Item 4
+Item 5 -- from fugitive slave narratives
 Title:
-
-
-Item 5
-Title:
+https://digital.sfasu.edu/digital/collection/RSP
