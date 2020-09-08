@@ -12,12 +12,18 @@ and the death penalty, the history of policing and arrest, as well as the histor
 systems in Texas. This exhibit is quite limited in nature, but seeks to create a jumping-off point for 
 those interested in exploring the complex and problematic effects surrounding incarceration. 
 
-##Items in the exhibit
+## Items in the exhibit
 
-Item 1
-Title:
-Link:
-Description:
+1. ["Criminal Syndicalism" case, McComb, Mississippi]("Criminal Syndicalism" case, McComb, Mississippi)
+
+Collecting Institution: The Harry Ransom Center
+
+Item Date: 1964 October 19
+
+Format: Reel-to-reel audiotapes
+
+Description from Institution: 
+Track 1: John Beecher and members of Council of Federated Organizations (COFO) meet with high school students arrested on charge of criminal syndicalism, and their parents, after their release from jail in McComb, Mississippi. Beecher interviews the group regarding conditions in the jail. The group sings several spirituals. Track 2: Meeting, continued.
 
 
 
