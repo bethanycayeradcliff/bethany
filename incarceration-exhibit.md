@@ -10,17 +10,17 @@ to modern day, in order to show that these are not isolated issues related to a 
 
 The items below are from the Harry Ransom Center at the Univeristy of Texas at Austin, Sam Houston State University,
 the Texas After Violence Project, which is part of the University of Texas at Austin Libraries, and Steven F. Austin State University.
-I have included materials such as the Texas After Violence oral histories to look think about wrongful imprisonment, as well as the affect of imprisonment and the death penalty on survivors. The newspaper clipping from Stephen F. Austin's Fugitive Slave Project beckons a critical focus on the racist history of policing and arrest. The audio recording on "criminal syndicalism" from the Harry Ransom Center spotlights the creation of false crimes and the wrongful arrest of black Americans. The stereoscope image of the Texas State Penitentiary from Sam Houston State creates a space to think about the history and infrastructure of incarceration, as well as the spectacle and interest in prisons due to the fact that stereoscopes presented an entertainment value. This exhibit is limited in nature, but seeks to create a jumping-off point for 
-those interested in exploring the complex and problematic effects surrounding incarceration, that have existed for many years and persist today. 
+I have included materials such as the Texas After Violence oral histories to look think about wrongful imprisonment, as well as the affect of imprisonment and the death penalty on survivors. The newspaper clipping from Stephen F. Austin's Texas Runaway Slave Project beckons a critical focus on the racist history of policing and arrest. The audio recording on "criminal syndicalism" from the Harry Ransom Center spotlights the creation of false crimes and the wrongful arrest of black Americans. The stereoscope image of the Texas State Penitentiary from Sam Houston State creates a space to think about the history and infrastructure of incarceration, as well as the spectacle and interest in prisons due to the fact that stereoscopes presented an entertainment value. This exhibit is limited in nature, but seeks to create a jumping-off point for 
+those interested in exploring the complex and problematic effects surrounding incarceration, that have existed for many years and persist today.
 
 
-## Items in the exhibit
+## Exhibit Items
 
-**1. ["Criminal Syndicalism" case, McComb, Mississippi](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37)**
+**1\. ["Criminal Syndicalism" case, McComb, Mississippi](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37)**
 
 ![HRC reel case image](/images/HRC-Beecher-audio-image.jpg)
 
-**Collecting Institution:** The Harry Ransom Center - The University of Texas at Austin
+**Collecting Institution:** The Harry Ransom Center at the University of Texas at Austin
 
 **Item Date:** 1964 October 19
 
@@ -55,7 +55,7 @@ Stereoscope view of the front entrance to the Texas State Penitentiary before th
 
 ![TAVP Keith Brooks video image](/images/TAVP-Keith-Brooks.png)
 
-**Collecting Institution:** Texas After Violence Project - University of Texas Libraries 
+**Collecting Institution:** Texas After Violence Project at the University of Texas Libraries 
 
 **Item Date:** February 6, 2013
 
@@ -82,19 +82,18 @@ Keith Brooks, a youth minister, small business owner, and native of Fort Worth, 
 Lauren Johnson is an advocate for incarcerated people who was formerly incarcerated by the state of Texas. In her interview, Johnson discusses the poverty of her childhood, and how drugs and abuse impacted her adolescence. Johnson gave birth while incarcerated, and describes her experience of pregnancy and childbirth while in prison custody. Finally, Johnson reflects on her advocacy work and discusses her vision of a just society. This interview took place in the Texas After Violence Project office in Austin, Texas, on June 9, 2017
 
 
-**5\. []()
+**5\. [Virgil01 (newspaper clipping from Austin City Gazette about fugitve slave](https://digital.sfasu.edu/digital/collection/RSP/id/6468/rec/203)
 
-maybe from: https://digital.sfasu.edu/digital/collection/RSP
+![SFA image](/images/SFA-runaway-slave-image.jpg)
 
-![](/images/)
+**Collecting Institution:** East Texas Digital Libraries at Stephen F. Austin State University
 
-**Collecting Institution:** 
+**Item Date:** 6/3/1840
 
-**Item Date:** 
+**Original Format:** Microfilm of newspaper clipping
 
-**Original Format:** 
+**Digital Format:** jpeg
 
-**Digital Format:** 
-
-**Description from Institution:** 
+**Description from Institution:** 	
+On Friday last, five negroes, the property of Mrs. M. Bullock, and one, the property of Major Samuel Whiting, ran away, carrying off along with them six horses, the property of various individuals; three guns, and, it is supposed about $150 in specie, and $600 or $700 in Texas money. We hope the citizens in all sections of the country, and the commanders and men at the various military posts, will arrest all blacks whom they may find wandering at large through the country without satisfactory passes in their possession. A description of one of the negroes will be seen in our advertising columns of today.
 
