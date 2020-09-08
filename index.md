@@ -5,3 +5,4 @@
 * Bio
 * CV
 * Projects
+* Contact Information
