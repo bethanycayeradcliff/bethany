@@ -35,6 +35,8 @@ Track 1: John Beecher and members of Council of Federated Organizations (COFO) m
 
 **2\. [Stereoscope of front entrance to the Penitentiary](https://digital.library.shsu.edu/digital/collection/p243coll3/id/5607)**
 
+![Sam Houston State Stereoscope Image](/images/SamHouston-steroscopic-prison.jpg)
+
 **Collecting Institution:** Sam Houston State University
 
 **Item Date:** 1873-1875
