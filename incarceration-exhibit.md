@@ -1,6 +1,6 @@
 # Issues of Incarceration in the Southern United States: A Mini Exhibit
 
-###### Digital exhibit curated by Bethany Radcliff for INF 385S: Digital Libraries at the School of Information at the University of Texas at Austin (fall 2020)
+###### Digital exhibit curated by Bethany Radcliff for INF 385S: Digital Libraries at the School of Information at the University of Texas at Austin (fall 2020; Professor Melanie Cofield)
 
 ### A note on this exhibit: 
 
