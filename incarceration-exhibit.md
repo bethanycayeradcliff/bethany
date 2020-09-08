@@ -52,7 +52,7 @@ Stereoscope view of the front entrance to the Texas State Penitentiary before th
 Item 3 -- Texas After Violence oral history -- family/affect
 
 
-Item 4 -- Texas After Violence Project: Interview with Lauren Johnson
+Item 4 -- [Texas After Violence Project: Interview with Lauren Johnson](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)
 
 ![TAVP Lauren Johnson video image](/images/TAVP-Lauren-Johnson.png)
 
