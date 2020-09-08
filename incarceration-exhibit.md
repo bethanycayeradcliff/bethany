@@ -13,6 +13,8 @@ the Texas After Violence Project, which is part of the University of Texas at Au
 I have included materials such as the Texas After Violence oral histories to look think about wrongful imprisonment, as well as the affect of imprisonment and the death penalty on survivors. The newspaper clipping from Stephen F. Austin's Texas Runaway Slave Project beckons a critical focus on the racist history of policing and arrest. The audio recording on "criminal syndicalism" from the Harry Ransom Center spotlights the creation of false crimes and the wrongful arrest of black Americans. The stereoscope image of the Texas State Penitentiary from Sam Houston State creates a space to think about the history and infrastructure of incarceration, as well as the spectacle and interest in prisons due to the fact that stereoscopes presented an entertainment value. This exhibit is limited in nature, but seeks to create a jumping-off point for 
 those interested in exploring the complex and problematic effects surrounding incarceration, that have existed for many years and persist today.
 
+This exhibit is based on the Texas Digital Library's [Find Five promotional project](https://www.tdl.org/2020/04/join-find-five/), and the five curated digital works below are from [institutional member groups](https://www.tdl.org/members/groups/) associated with Texas Digital Library.
+
 
 ## Exhibit Items
 
@@ -82,7 +84,7 @@ Keith Brooks, a youth minister, small business owner, and native of Fort Worth, 
 Lauren Johnson is an advocate for incarcerated people who was formerly incarcerated by the state of Texas. In her interview, Johnson discusses the poverty of her childhood, and how drugs and abuse impacted her adolescence. Johnson gave birth while incarcerated, and describes her experience of pregnancy and childbirth while in prison custody. Finally, Johnson reflects on her advocacy work and discusses her vision of a just society. This interview took place in the Texas After Violence Project office in Austin, Texas, on June 9, 2017
 
 
-**5\. [Virgil01 (newspaper clipping from Austin City Gazette about fugitve slave](https://digital.sfasu.edu/digital/collection/RSP/id/6468/rec/203)**
+**5\. [Virgil01 (newspaper clipping from Austin City Gazette about fugitve slaves)](https://digital.sfasu.edu/digital/collection/RSP/id/6468/rec/203)**
 
 ![SFA image](/images/SFA-runaway-slave-image.jpg)
 
