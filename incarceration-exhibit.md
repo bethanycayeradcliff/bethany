@@ -1,6 +1,8 @@
 # Issues of Incarceration in the Southern United States: A Mini Exhibit
 
-## A note on this exhibit: 
+###### Digital exhibit curated by Bethany Radcliff for INF 385S: Digital Libraries at the School of Information at the University of Texas at Austin
+
+### A note on this exhibit: 
 
 I chose the theme of issues of incarceration, especially revolving around wrongful 
 imprisonment in the southern United States. It was somewhat of a challenge to find digitized 
