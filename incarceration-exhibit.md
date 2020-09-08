@@ -53,6 +53,9 @@ Item 3 -- Texas After Violence oral history -- family/affect
 
 
 Item 4 -- Texas After Violence Oral history -- formerly imprisoned
+
+![TAVP Lauren Johnson Video](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)
+
 Title:
 
 
