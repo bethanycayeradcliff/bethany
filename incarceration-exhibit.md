@@ -18,7 +18,7 @@ those interested in exploring the complex and problematic effects surrounding in
 
 ![HRC reel case image](/images/HRC-Beecher-audio-image.jpg)
 
-Collecting Institution: The Harry Ransom Center
+*Collecting Institution:* The Harry Ransom Center
 
 Item Date: 1964 October 19
 
