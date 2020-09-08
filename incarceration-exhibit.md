@@ -14,13 +14,15 @@ those interested in exploring the complex and problematic effects surrounding in
 
 ## Items in the exhibit
 
-1. ["Criminal Syndicalism" case, McComb, Mississippi]("Criminal Syndicalism" case, McComb, Mississippi)
+1. ["Criminal Syndicalism" case, McComb, Mississippi](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37)
 
 Collecting Institution: The Harry Ransom Center
 
 Item Date: 1964 October 19
 
-Format: Reel-to-reel audiotapes
+Original Format: Reel-to-reel audiotapes
+
+Digital Format: mp3
 
 Description from Institution: 
 Track 1: John Beecher and members of Council of Federated Organizations (COFO) meet with high school students arrested on charge of criminal syndicalism, and their parents, after their release from jail in McComb, Mississippi. Beecher interviews the group regarding conditions in the jail. The group sings several spirituals. Track 2: Meeting, continued.
@@ -29,8 +31,18 @@ Track 1: John Beecher and members of Council of Federated Organizations (COFO) m
 
 
 
-Item 2
-Title:
+2. [Stereoscope of front entrance to the Penitentiary](https://digital.library.shsu.edu/digital/collection/p243coll3/id/5607)
+
+Collecting Institution: Sam Houston State University
+
+Item Date: 1873-1875
+
+Original Format: stereoscopic photograph
+
+Digital Format: jpeg
+
+Description from Institution: 	
+Stereoscope view of the front entrance to the Texas State Penitentiary before the high wall was built to surround the entire prison property. The large three-story building to the left was erected by Ward, Dewey & Company, lessees, when they took charge. After this building burned, the lot was cleared of debris and the street moved from its then location to sixty or seventy feet further west (over the site of the Superintendent's home, which also was destroyed by the fire). The wall now surrounding the prison was located far enough West to replace what was formerly the street behind and inside the prison walls. That necessitated moving in the entrance gate shown in the photograph to its present location. Before this entrance gate was placed across the street, public passage was open all the way through to the city limits on the east side of town. Ward, Dewey & Co. probably erected the entrance gate and closed the street when they came to Huntsville to operate the Penitentiary.
 
 
 Item 3
