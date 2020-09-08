@@ -66,7 +66,7 @@ Stereoscope view of the front entrance to the Texas State Penitentiary before th
 **Description from Institution:**
 Keith Brooks, a youth minister, small business owner, and native of Fort Worth, Texas, is the second son of Charlie Brooks, Jr., the first man to ever be executed by lethal injection in the United States. In Tape 1, Brooks discusses his experiences growing up in segregated Fort Worth; the gang culture that permeated his neighborhood in the 1970s; memories of his father’s arrest and trial; his experiences with the NAACP; his own time spent in prison; his father’s conversion to Islam; and his own views on the ethics of the death penalty in Texas. In Tape 2, Brooks discusses his experiences with segregation and desegregation of public schools in Fort Worth; his relationship with his family; how his father’s notoriety affected his life and that of his family; his time spent at Texas A&M University and his father’s appeal process. In Tape 3, Brooks discusses the day of his father’s execution, December 7, 1982; his family’s history as sharecroppers in Texas; his experiences as a Black student at Texas A&M; life after his father’s execution; his relationship with Christianity; and the ways in which his father’s legacy has impacted his life and the lives of his family members. This interview took place on February 6, 2013, in the Echo Heights neighborhood of Fort Worth, Tarrant County, Texas.
 
-**4\. [Texas After Violence Project: Interview with Lauren Johnson](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)
+**4\. [Texas After Violence Project: Interview with Lauren Johnson](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)**
 
 ![TAVP Lauren Johnson video image](/images/TAVP-Lauren-Johnson.png)
 
@@ -82,7 +82,7 @@ Keith Brooks, a youth minister, small business owner, and native of Fort Worth, 
 Lauren Johnson is an advocate for incarcerated people who was formerly incarcerated by the state of Texas. In her interview, Johnson discusses the poverty of her childhood, and how drugs and abuse impacted her adolescence. Johnson gave birth while incarcerated, and describes her experience of pregnancy and childbirth while in prison custody. Finally, Johnson reflects on her advocacy work and discusses her vision of a just society. This interview took place in the Texas After Violence Project office in Austin, Texas, on June 9, 2017
 
 
-**5\. [Virgil01 (newspaper clipping from Austin City Gazette about fugitve slave](https://digital.sfasu.edu/digital/collection/RSP/id/6468/rec/203)
+**5\. [Virgil01 (newspaper clipping from Austin City Gazette about fugitve slave](https://digital.sfasu.edu/digital/collection/RSP/id/6468/rec/203)**
 
 ![SFA image](/images/SFA-runaway-slave-image.jpg)
 
