@@ -7,7 +7,7 @@
 I chose the theme of issues of incarceration in the southern United States. It was somewhat of a challenge to find digitized 
 materials related to these topics. I initially endeavoured to use only materials related to Texas itself, 
 but broadened that to include materials in the southern United States. These materials span in time from the 1860s to the civil rights era, 
-to modern day, in order to show that these are not isolated issues related to a particular time. 
+to modern day, in order to show that these are not isolated issues related to a particular time, and are ongoing in temporality.
 
 The items below are from the Harry Ransom Center at the Univeristy of Texas at Austin, Sam Houston State University,
 the Texas After Violence Project, which is part of the University of Texas at Austin Libraries, and Steven F. Austin State University.
