@@ -2,15 +2,17 @@
 
 ## A note on this exhibit: 
 
-I chose the theme of issues of incarceration, especially revolving around wrongful imprisonment. 
-It was somewhat of a challenge to find digitized materials related to these topics. I initially 
-endeavoured to use only materials related to Texas itself, but broadened that to include materials 
-in the southern United States. These materials span in time from the 1860s to the civil rights era, 
+I chose the theme of issues of incarceration, especially revolving around wrongful 
+imprisonment in the southern United States. It was somewhat of a challenge to find digitized 
+materials related to these topics. I initially endeavoured to use only materials related to Texas itself, 
+but broadened that to include materials in the southern United States. These materials span in time from the 1860s to the civil rights era, 
 to modern day, in order to show that these are not isolated issues related to a particular time. 
-I have included materials related to wrongful and forced imprisonment, the affect of imprisonment 
-and the death penalty, the history of policing and arrest, as well as the history of the penitientiary 
-systems in Texas. This exhibit is quite limited in nature, but seeks to create a jumping-off point for 
-those interested in exploring the complex and problematic effects surrounding incarceration. 
+
+The items below are from the Harry Ransom Center at the Univeristy of Texas at Austin, Sam Houston State University,
+the Texas After Violence Project, which is part of the University of Texas at Austin Libraries, and Steven F. Austin State University.
+I have included materials such as the Texas After Violence oral histories to look think about wrongful imprisonment, as well as the affect of imprisonment and the death penalty on survivors. The newspaper clipping from Stephen F. Austin's Fugitive Slave Project beckons a critical focus on the racist history of policing and arrest. The audio recording on "criminal syndicalism" from the Harry Ransom Center spotlights the creation of false crimes and the wrongful arrest of black Americans. The stereoscope image of the Texas State Penitentiary from Sam Houston State creates a space to think about the history and infrastructure of incarceration, as well as the spectacle and interest in prisons due to the fact that stereoscopes presented an entertainment value. This exhibit is limited in nature, but seeks to create a jumping-off point for 
+those interested in exploring the complex and problematic effects surrounding incarceration, that have existed for many years and persist today. 
+
 
 ## Items in the exhibit
 
@@ -18,7 +20,7 @@ those interested in exploring the complex and problematic effects surrounding in
 
 ![HRC reel case image](/images/HRC-Beecher-audio-image.jpg)
 
-**Collecting Institution:** The Harry Ransom Center
+**Collecting Institution:** The Harry Ransom Center - The University of Texas at Austin
 
 **Item Date:** 1964 October 19
 
@@ -49,14 +51,26 @@ Track 1: John Beecher and members of Council of Federated Organizations (COFO) m
 Stereoscope view of the front entrance to the Texas State Penitentiary before the high wall was built to surround the entire prison property. The large three-story building to the left was erected by Ward, Dewey & Company, lessees, when they took charge. After this building burned, the lot was cleared of debris and the street moved from its then location to sixty or seventy feet further west (over the site of the Superintendent's home, which also was destroyed by the fire). The wall now surrounding the prison was located far enough West to replace what was formerly the street behind and inside the prison walls. That necessitated moving in the entrance gate shown in the photograph to its present location. Before this entrance gate was placed across the street, public passage was open all the way through to the city limits on the east side of town. Ward, Dewey & Co. probably erected the entrance gate and closed the street when they came to Huntsville to operate the Penitentiary.
 
 
-Item 3 -- Texas After Violence oral history -- family/affect
+**3\. [Texas After Violence Project: Interview with Keith Brooks](http://av.lib.utexas.edu/index.php?title=TAVP:Keith_Brooks_1)**
 
+![TAVP Keith Brooks video image](/images/TAVP-Keith-Brooks.png)
 
-Item 4 -- [Texas After Violence Project: Interview with Lauren Johnson](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)
+**Collecting Institution:** Texas After Violence Project - University of Texas Libraries 
+
+**Item Date:** February 6, 2013
+
+**Original Format:** Moving image
+
+**Digital Format:** streaming video
+
+**Description from Institution:**
+Keith Brooks, a youth minister, small business owner, and native of Fort Worth, Texas, is the second son of Charlie Brooks, Jr., the first man to ever be executed by lethal injection in the United States. In Tape 1, Brooks discusses his experiences growing up in segregated Fort Worth; the gang culture that permeated his neighborhood in the 1970s; memories of his father’s arrest and trial; his experiences with the NAACP; his own time spent in prison; his father’s conversion to Islam; and his own views on the ethics of the death penalty in Texas. In Tape 2, Brooks discusses his experiences with segregation and desegregation of public schools in Fort Worth; his relationship with his family; how his father’s notoriety affected his life and that of his family; his time spent at Texas A&M University and his father’s appeal process. In Tape 3, Brooks discusses the day of his father’s execution, December 7, 1982; his family’s history as sharecroppers in Texas; his experiences as a Black student at Texas A&M; life after his father’s execution; his relationship with Christianity; and the ways in which his father’s legacy has impacted his life and the lives of his family members. This interview took place on February 6, 2013, in the Echo Heights neighborhood of Fort Worth, Tarrant County, Texas.
+
+**4\. [Texas After Violence Project: Interview with Lauren Johnson](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)
 
 ![TAVP Lauren Johnson video image](/images/TAVP-Lauren-Johnson.png)
 
-**Collecting Institution:** University of Texas Libraries - Texas After Violence Project
+**Collecting Institution:** Texas After Violence Project - University of Texas Libraries 
 
 **Item Date:** June 9, 2017
 
@@ -68,6 +82,19 @@ Item 4 -- [Texas After Violence Project: Interview with Lauren Johnson](http://a
 Lauren Johnson is an advocate for incarcerated people who was formerly incarcerated by the state of Texas. In her interview, Johnson discusses the poverty of her childhood, and how drugs and abuse impacted her adolescence. Johnson gave birth while incarcerated, and describes her experience of pregnancy and childbirth while in prison custody. Finally, Johnson reflects on her advocacy work and discusses her vision of a just society. This interview took place in the Texas After Violence Project office in Austin, Texas, on June 9, 2017
 
 
-Item 5 -- from fugitive slave narratives
-Title:
-https://digital.sfasu.edu/digital/collection/RSP
+**5\. []()
+
+maybe from: https://digital.sfasu.edu/digital/collection/RSP
+
+![](/images/)
+
+**Collecting Institution:** 
+
+**Item Date:** 
+
+**Original Format:** 
+
+**Digital Format:** 
+
+**Description from Institution:** 
+
