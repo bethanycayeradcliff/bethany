@@ -52,8 +52,20 @@ Stereoscope view of the front entrance to the Texas State Penitentiary before th
 Item 3 -- Texas After Violence oral history -- family/affect
 
 
-Item 4 -- Texas After Violence Oral history -- formerly imprisoned
-Title:
+Item 4 -- Texas After Violence Project: Interview with Lauren Johnson
+
+![TAVP Lauren Johnson Video](http://av.lib.utexas.edu/index.php?title=TAVP:Lauren_Johnson&p=video1&b=0)
+
+**Collecting Institution:** University of Texas Libraries - Texas After Violence Project
+
+**Item Date:** June 9, 2017
+
+**Original Format:** Moving image
+
+**Digital Format:** streaming video
+
+**Description from Institution:** 
+Lauren Johnson is an advocate for incarcerated people who was formerly incarcerated by the state of Texas. In her interview, Johnson discusses the poverty of her childhood, and how drugs and abuse impacted her adolescence. Johnson gave birth while incarcerated, and describes her experience of pregnancy and childbirth while in prison custody. Finally, Johnson reflects on her advocacy work and discusses her vision of a just society. This interview took place in the Texas After Violence Project office in Austin, Texas, on June 9, 2017
 
 
 Item 5 -- from fugitive slave narratives
