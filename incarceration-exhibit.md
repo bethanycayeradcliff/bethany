@@ -15,9 +15,8 @@ those interested in exploring the complex and problematic effects surrounding in
 ## Items in the exhibit
 
 1. ["Criminal Syndicalism" case, McComb, Mississippi](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37)
-<p>
-<img src="/images/HRC-Beecher-audio-image.jpg"  width="800" height="800">
-</p>
+![HRC reel case image](/images/HRC-Beecher-audio-image.jpg)
+
 Collecting Institution: The Harry Ransom Center
 
 Item Date: 1964 October 19
