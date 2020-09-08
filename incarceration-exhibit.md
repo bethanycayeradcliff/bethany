@@ -4,8 +4,7 @@
 
 ### A note on this exhibit: 
 
-I chose the theme of issues of incarceration, especially revolving around wrongful 
-imprisonment in the southern United States. It was somewhat of a challenge to find digitized 
+I chose the theme of issues of incarceration in the southern United States. It was somewhat of a challenge to find digitized 
 materials related to these topics. I initially endeavoured to use only materials related to Texas itself, 
 but broadened that to include materials in the southern United States. These materials span in time from the 1860s to the civil rights era, 
 to modern day, in order to show that these are not isolated issues related to a particular time. 
