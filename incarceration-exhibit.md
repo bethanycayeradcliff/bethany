@@ -26,7 +26,7 @@ those interested in exploring the complex and problematic effects surrounding in
 
 **Collecting Institution:** The Harry Ransom Center at the University of Texas at Austin
 
-**Item Date:** 1964 October 19
+**Item Date:** October 19, 1964
 
 **Original Format:** Reel-to-reel audiotapes
 
@@ -92,7 +92,7 @@ Lauren Johnson is an advocate for incarcerated people who was formerly incarcera
 
 **Collecting Institution:** East Texas Digital Libraries at Stephen F. Austin State University
 
-**Item Date:** 6/3/1840
+**Item Date:** June 3, 1840
 
 **Original Format:** Microfilm of newspaper clipping
 
