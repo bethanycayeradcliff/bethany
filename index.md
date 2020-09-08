@@ -4,5 +4,5 @@
 
 * Bio
 * CV
-* (Projects)[projects.md]
+* (Projects)[/projects.md]
 * Contact Information
