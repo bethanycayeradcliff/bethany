@@ -10,7 +10,7 @@ but broadened that to include materials in the southern United States. These mat
 to modern day, in order to show that these are not isolated issues related to a particular time, and are ongoing in temporality.
 
 The items below are from the Harry Ransom Center at the Univeristy of Texas at Austin, Sam Houston State University,
-the Texas After Violence Project, which is part of the University of Texas at Austin Libraries, and Steven F. Austin State University.
+the Texas After Violence Project, which is part of the University of Texas at Austin Libraries, and Stephen F. Austin State University.
 I have included materials such as the Texas After Violence oral histories to look think about wrongful imprisonment, as well as the affect of imprisonment and the death penalty on survivors. The newspaper clipping from Stephen F. Austin's Texas Runaway Slave Project beckons a critical focus on the racist history of policing and arrest. The audio recording on "criminal syndicalism" from the Harry Ransom Center spotlights the creation of false crimes and the wrongful arrest of black Americans. The stereoscope image of the Texas State Penitentiary from Sam Houston State creates a space to think about the history and infrastructure of incarceration, as well as the spectacle and interest in prisons due to the fact that stereoscopes presented an entertainment value. This exhibit is limited in nature, but seeks to create a jumping-off point for 
 those interested in exploring the complex and problematic effects surrounding incarceration, that have existed for many years and persist today.
 
