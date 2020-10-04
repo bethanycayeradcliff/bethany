@@ -64,6 +64,24 @@
 - Graded all student exams and essays
 - Served as liaison between students and professor, and managed student communication
 
+#### Harry Ransom Center
+**September 17, 2020: "History of Writing" 4th and 5th grade class visit from Headwaters School**
+- Curated teaching exhibit on history of women's writing
+- Included: Esther Inglis Manuscript (1606), *The Green Dwarf* by Charlotte Brönte (1833), Louisa May Alcott's "Alcott letter to Mrs. Conway," Anne Sexton's typewriter, and the accompaanying typewriter manual
+
+**November 19, 2020: UGS class visit focused on costumes**
+- Assisted with preparation of class materials, including careful retrieval and display of costume materials
+
+**March 4, 2020: Assisted class visit for ANT 324L Sonic Ethnography**
+- Assisted in curation, retrieval, and preparation of audio materials
+
+**Week of September 22, 2020: Taught asynchcronous discussion for E 343G: Global Environmental Literature and Film**
+- Curated and prepared digital surrogates of archival materials related to class themes. Created discussion infrastructure and led discussion for class
+
+**September 24, 2020: Co-taught visiting lecture to Concordia University Austin literature and technology class**
+- Created technology and digital humanities in the archives lesson for students
+
+
 ### Conferences and Workshops
 
 ##### AudiAnnotate: Linked Data for Sound @ LD4 Conference
