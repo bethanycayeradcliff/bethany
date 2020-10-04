@@ -16,7 +16,9 @@
 ##### Certification: Columbia Publishing Course, Columbia University, New York, NY *Summer 2016*
 - Six-week intensive certificate course on all aspects of book, magazine, and digital media publishing
 
+
 ### ACADEMIC EXPERIENCE
+
 
 #### Research Positions
 
@@ -55,7 +57,9 @@
 - Learned basic XML markup and assisted in launch of DEx: A Database of Dramatic Extracts 
 - Earned certificate in digital humanities
 
+
 ### Teaching
+
 
 #### UNIVERSITY OF TEXAS AT AUSTIN 
 ##### Teaching Assistant — English Department *August 2018–May 2019*
@@ -84,37 +88,54 @@
 
 ### Conferences and Workshops
 
-##### AudiAnnotate: Linked Data for Sound @ LD4 Conference
+##### AudiAnnotate: [Linked Data for Sound @ LD4 Conference](https://ld42020.sched.com/event/cjKL) (July 27, 2020)
+- Presented on AudiAnnotate, linked data, and project documentation
+
 
 ##### AudiAnnotate Workshop @ DH2020 Conference (July 22, 2020)
+
 *Hosted with Dr. Tanya Clement and Brumfield Labs via Zoom for DH2020 AVinDH SIG*
+
 -	Created workshop github site as and presented walkthrough of application
 
 ##### AudiAnnotate IIIF Virtual Workshop (May 28, 2020)
+
 *Hosted via Zoom by AudiAnnotate with Dr. Tanya Clement and Brumfield Labs*
+
 -	Created workshop github site as and presented walkthrough of application
 
 ##### AudiAnnotate User Testing Workshop (November 22, 2019)
+
 *Hosted at the Harry Ransom Center*
+
 -	Presented and created documentation for workshop to test workflow
 
 ##### Historical Poetics Now Conference (November 7, 2019)
 *Hosted at the University of Texas at Austin*
+
 **Workshop title: Poetry and Digital Analytics, moderated by Tanya Clement and Laura Mandell**
+
 -	Presented and ran a workshop on analyzing poetry using the software Gentle and Drift
 
 ##### Tell-Tale Traces: Living Memory in the United States (April 5, 2019)
+
 *University of Texas American Studies Department* 
+
 **Title: “A Hostage in Her Home? Reframing Louisa May Alcott’s Orchard House”**
 
 ##### MIRS: Multi-disciplinary Information Research Symposium (April 22, 2019)
+
 *University of North Texas School of Information*
+
 **Title: “Dying on Social Media: Remembering (and Forgetting) Death in the Digital Age”**
+
 
 ### Conference Posters
 
 ##### Society of American Archivists 2019 Annual Meeting (August 3-5, 2020)
+
 *co-presented with Alyssa Anderson on behalf od SAA-UT*
+
 **Title: “The University of Texas at Austin SAA Chapter: Past. Present. Transformative.”**
 
 ### Organizations
