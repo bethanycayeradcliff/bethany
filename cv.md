@@ -1,6 +1,6 @@
 # CV
 
-###### contact: bethanyradcliff@utexas.edu 
+home + about | cv | projects | contact me
 
 
 ### EDUCATION
