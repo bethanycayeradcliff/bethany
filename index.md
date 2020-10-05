@@ -3,6 +3,6 @@
 ### This portfolio site contains
 
 * Bio
-* [CV](cv.html)
+* [CV](cv.md)
 * [Projects](projects.md)
 * Contact Information
