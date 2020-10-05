@@ -4,10 +4,10 @@
 
 * [education](#education)
 * [academic experience](#academic)
-- [research positions](#researchpos)
-- [teaching](#teaching)
+* [research positions](#researchpos)
+* [teaching](#teaching)
 * [conferences and workshops](#conferences)
-- [+conference posters](#posters)
+* [+conference posters](#posters)
 * [organization work](#organizations)
 * [professional experience](#professionalx)
 * [skills](#skills)
