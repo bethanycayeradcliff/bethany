@@ -2,7 +2,7 @@
 
 ### This portfolio site contains
 
-* Bio
+* About me
 * [CV](cv.md)
 * [Projects](projects.md)
 * Contact Information
