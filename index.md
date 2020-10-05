@@ -1,5 +1,5 @@
 ***
-## bethany caye radcliff 
+## :cat2: bethany caye radcliff :cat2:
 ***
 
 [home + about](index.md)  |     [cv](cv.md)    |    [projects](projects.md)   |    [contact me](contact.md)
