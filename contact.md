@@ -1,7 +1,7 @@
 [home + about](index.md)  |     [cv](cv.md)    |    [projects](projects.md)   |    [contact me](contact.md)
 
-#Contact Me
+#contact me
 
-My email: bethanyradcliff@utexas.edu
+email: bethanyradcliff@utexas.edu
 
-Twitter: [@bethanycaye](https://twitter.com/bethanycaye)
+twitter: [@bethanycaye](https://twitter.com/bethanycaye)
