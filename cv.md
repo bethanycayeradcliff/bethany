@@ -39,7 +39,7 @@
 - Work shifts at reception desk and at reading room reference desk
 - Educate patrons in archival practices
 - Assist staff with archival classes 
-- co-curator and co-presenter of book club event for *The Things They Carried* by Tim O'Brien
+- co-curator and co-presenter of book club event for *The Things They Carried* by Tim O'Brien (February 2020; 4 events)
 - Creation of metadata for archival sound recordings as part of an NEH-funding preservation grant (Jan. 2020-Sep. 2020)
 - Member of privacy policy committee
 - Curation of exhibition focused on sound collections for Black History Month: Discovery and Possibility (Feb. 2020)
