@@ -1,5 +1,4 @@
 ***
-***
 ## Bethany Caye Radcliff 
 ***
 [home + about](index.md)  |     [cv](cv.md)    |    [projects](projects.md)   |    [contact me](contact.md)
