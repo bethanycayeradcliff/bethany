@@ -16,6 +16,7 @@
 ##### Certification: Columbia Publishing Course, Columbia University, New York, NY *Summer 2016*
 - Six-week intensive certificate course on all aspects of book, magazine, and digital media publishing
 
+***
 
 ### ACADEMIC EXPERIENCE
 
@@ -57,6 +58,7 @@
 - Learned basic XML markup and assisted in launch of DEx: A Database of Dramatic Extracts 
 - Earned certificate in digital humanities
 
+***
 
 ### Teaching
 
@@ -85,6 +87,7 @@
 **September 24, 2020: Co-taught visiting lecture to Concordia University Austin literature and technology class**
 - Created technology and digital humanities in the archives lesson for students
 
+***
 
 ### Conferences and Workshops
 
@@ -113,7 +116,7 @@
 ##### Historical Poetics Now Conference (November 7, 2019)
 *Hosted at the University of Texas at Austin*
 
-**Workshop title: Poetry and Digital Analytics, moderated by Tanya Clement and Laura Mandell**
+**Workshop title: Poetry and Digital Analytics, moderated by Dr. Tanya Clement and Dr. Laura Mandell**
 
 -	Presented and ran a workshop on analyzing poetry using the software Gentle and Drift
 
@@ -138,6 +141,8 @@
 
 **Title: “The University of Texas at Austin SAA Chapter: Past. Present. Transformative.”**
 
+***
+
 ### Organizations
 
 ##### STUDENT ORGANIZATION OF THE SCHOOL OF INFORMATION
@@ -154,7 +159,10 @@
 - Archived files on university Box and completed transition from Google Drive to Box
 - Responsible for yearly report and organizational memo
 
+***
+
 ### PROFESSIONAL EXPERIENCE
+
 ##### NEILL-COCHRAN HOUSE MUSEUM – Austin, Texas
 **Visitor Services Coordinator** *May 2019–September 2019* 
 - Managed tour operations team and led guided tours for visiting school groups
@@ -196,6 +204,8 @@
 **Editorial Intern**	
 - Wrote between one and three stories per week for the arts and entertainment blog
 - Pitched story ideas and updated events database 
+
+***
 
 **Skills: Omeka, Wordpress, Open Refine, Content Management Systems, Descriptive Metadata, Dublin Core, Adobe Suite, Adobe Experience Manager, archival research, site migration, Drupal, Google AdWords, SEO, Microsoft Suite, Dropbox, Google Drive, basic HTML, CMS, Kitaboo epub software, Audacity, Sound Forge**
 
