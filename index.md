@@ -1,5 +1,5 @@
 ***
-## :cat2: bethany caye radcliff :cat2:
+##  :books::computer::cat2: bethany caye radcliff :cat2::computer::books:
 ***
 
 [home + about](index.md)  |     [cv](cv.md)    |    [projects](projects.md)   |    [contact me](contact.md)
