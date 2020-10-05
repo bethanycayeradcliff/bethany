@@ -2,6 +2,17 @@
 
 # CV
 
+* [education](#education)
+* [academic experience](#academic)
+- [research positions](#researchpos)
+- [teaching](#teaching)
+* [conferences and workshops](#conferences)
+- [+conference posters](#posters)
+* [organization work](#organizations)
+* [professional experience](#professionalx)
+* [skills](#skills)
+
+<a name="education"></a>
 ### EDUCATION
 
 ##### UNIVERSITY OF TEXAS AT AUSTIN *(IN PROGRESS: 2018–2021)*
@@ -16,10 +27,10 @@
 - Six-week intensive certificate course on all aspects of book, magazine, and digital media publishing
 
 ***
-
+<a name="academic"></a>
 ### ACADEMIC EXPERIENCE
 
-
+<a name="researchpos"></a>
 #### Research Positions
 
 ##### THE HARRY RANSOM CENTER – University of Texas at Austin	*August 2018–present*
@@ -58,18 +69,18 @@
 - Earned certificate in digital humanities
 
 ***
+<a name="teaching"></a>
+#### Teaching
 
-### Teaching
 
-
-#### UNIVERSITY OF TEXAS AT AUSTIN 
-##### Teaching Assistant — English Department *August 2018–May 2019*
+##### UNIVERSITY OF TEXAS AT AUSTIN 
+###### Teaching Assistant — English Department *August 2018–May 2019*
 - Taught weekly English literature classes of 25 students each (50 students per semester)
 - Planned weekly lessons, quizzes, and activities for students
 - Graded all student exams and essays
 - Served as liaison between students and professor, and managed student communication
 
-#### Harry Ransom Center
+##### Harry Ransom Center
 **September 17, 2020: "History of Writing" 4th and 5th grade class visit from Headwaters School**
 - Curated teaching exhibit on history of women's writing
 - Included: Esther Inglis Manuscript (1606), *The Green Dwarf* by Charlotte Brönte (1833), Louisa May Alcott's "Alcott letter to Mrs. Conway," Anne Sexton's typewriter, and the accompaanying typewriter manual
@@ -87,7 +98,7 @@
 - Created technology and digital humanities in the archives lesson for students
 
 ***
-
+<a name="conferences"></a>
 ### Conferences and Workshops
 
 ##### AudiAnnotate: [Linked Data for Sound @ LD4 Conference](https://ld42020.sched.com/event/cjKL) (July 27, 2020)
@@ -131,7 +142,7 @@
 
 **Title: “Dying on Social Media: Remembering (and Forgetting) Death in the Digital Age”**
 
-
+<a name="posters"></a>
 ### Conference Posters
 
 ##### Society of American Archivists 2019 Annual Meeting (August 3-5, 2020)
@@ -141,8 +152,8 @@
 **Title: “The University of Texas at Austin SAA Chapter: Past. Present. Transformative.”**
 
 ***
-
-### Organizations
+<a name="organizations"></a>
+### Organization Work
 
 ##### STUDENT ORGANIZATION OF THE SCHOOL OF INFORMATION
 **Faculty Liaison** *May 2019–May 2020*
@@ -159,7 +170,7 @@
 - Responsible for yearly report and organizational memo
 
 ***
-
+<a name="professionalx"></a>
 ### PROFESSIONAL EXPERIENCE
 
 ##### NEILL-COCHRAN HOUSE MUSEUM – Austin, Texas
@@ -205,7 +216,7 @@
 - Pitched story ideas and updated events database 
 
 ***
-
-**Skills: Omeka, Wordpress, Open Refine, Content Management Systems, Descriptive Metadata, Dublin Core, Adobe Suite, Adobe Experience Manager, archival research, site migration, Drupal, Google AdWords, SEO, Microsoft Suite, Dropbox, Google Drive, basic HTML, CMS, Kitaboo epub software, Audacity, Sound Forge**
+<a name="skills"></a>
+**Skills: Omeka, Wordpress, Open Refine, Content Management Systems, Descriptive Metadata, Dublin Core, Adobe Suite, Adobe Experience Manager, archival research, project management, site migration, Drupal, Google AdWords, SEO, Microsoft Suite, Dropbox, Google Drive, basic HTML, CMS, Kitaboo epub software, Audacity, Sound Forge**
 
 
