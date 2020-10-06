@@ -1,5 +1,3 @@
-***
-
 :books::honeybee::computer::cat2:
 
 ***
