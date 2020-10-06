@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: :books::honeybee::computer::cat2: bethany caye radcliff :cat2::computer::honeybee::books:
+title: bethany caye radcliff
 
 plugins:
   - jemoji
