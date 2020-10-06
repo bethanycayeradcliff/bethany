@@ -1,2 +1,6 @@
+# Site wide configuration
+
+title: bethany caye radcliff
+
 plugins:
   - jemoji
