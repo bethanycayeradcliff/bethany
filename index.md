@@ -1,6 +1,4 @@
 ***
-##  :books::honeybee::computer::cat2: bethany caye radcliff :cat2::computer::honeybee::books:
-***
 
 [home + about](index.md)  |     [cv](cv.md)    |    [projects](projects.md)   |    [contact me](contact.md)
 
