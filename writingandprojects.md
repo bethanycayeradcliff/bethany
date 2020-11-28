@@ -1,6 +1,6 @@
 # Writing and Projects 
 
-## Writing Completed in Coursework
+## Writing Completed in Coursework 
 * "A Hostage in Her Own Home: Reframing Louisa May Alcott’s Orchard House"
     * [Project summary](projects-and-work/project-samples/aHostageInHerOwnHome.md)
 
@@ -18,6 +18,10 @@
 
 ## Other Projects
 * (Fake) ACLS Grant Project: ["Metadata for Networked Archival Connection"](projects-and-work/project-samples/ACLSGrant.md)
+
 * [Digital Exhibits](digital-exhibits.md): Digital exhibits completed in coursework
+
 * Metadata Application Profiles
+      * [Example application profiles](projects-and-work/project-samples/metadataApplicationProfiles.md)
+
 * Define Print: Group project investigating the rhetoric of privacy policy versions, and proposing to user awareness of policy changes
