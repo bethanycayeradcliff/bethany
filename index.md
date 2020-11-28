@@ -1,7 +1,7 @@
 :books::honeybee::computer::cat2:
 
 
-[home + about](index.md)  |     [cv](cv.md)    |    [writing and projects](projects.md)   |    [contact me](contact.md)
+[home + about](index.md)  |     [cv](cv.md)    |    [projects/writing/work](projects.md)   |    [contact me](contact.md)
 
 
 :honeybee: Hello! My name is Bethany Radlciff and I am a graduate student at the University of Texas at Austin's School of Information and Department of English. I  will graduate in 2021 with a an M.S. in Information Studies and an M.A. in English, with a concentration in Digital Studies. 
@@ -16,6 +16,6 @@
 
 
 
-* [CV](cv.md)
-* [Writing and Projects](projects.md)
-* [Contact Me](contact.md)
+* [cv](cv.md)
+* [projects/writing/work](projects.md)
+* [contact me](contact.md)
