@@ -11,5 +11,13 @@
 
 #### VRA Application Profile
 ##### The purpose of this VRA application profile is to classify and organize information related to house museums
-- [VRA Application Profile Overview)(./VRA-application-profile.pdf)
+- [VRA Application Profile Overview](./VRA-application-profile.pdf)
+
+#### METS Application Profile
+##### The purpose of this METS application profile is to create a way for the Harry Ransom Center to adequately and interoperably describe collection materials
+- [METS Application Profile Overview](./METS-application-profile.pdf)
+
+#### RDF Application Profile
+##### The purpose of this application profile is to classify and organize information about individuals who are/were confessional poets
+- [RDF Application Profile Overview](./RDF-application-profile.pdf)
 
