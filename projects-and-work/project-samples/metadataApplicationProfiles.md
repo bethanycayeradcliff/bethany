@@ -3,4 +3,4 @@
 
 ### Dublin Core Application Profile
 #### The goal of this application profile was to create a DC-based schema with local terms to better describe podcasts
-- [Application Profile Overview](file:///C:/DC-application-profile.pdf)
+- [Application Profile Overview](./DC-application-profile.pdf)
