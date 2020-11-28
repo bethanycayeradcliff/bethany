@@ -1,4 +1,7 @@
 # Writing and Projects 
 
-* 
-* [Digital Exhibits](digital-exhibits.md): Digital exhibits completed in coursework
+## Writing Completed in Coursework
+### * ["A Hostage in Her Own Home: Reframing Louisa May Alcott’s Orchard House"](projects and work/project samples/aHostageInHerOwnHome.md)
+
+## Other Projects
+[Digital Exhibits](digital-exhibits.md): Digital exhibits completed in coursework
