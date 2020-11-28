@@ -1,9 +1,9 @@
 # Platformed Postmortem: A Rhetorical Understanding of Facebook’s Tributes Feature
 
 ### by Bethany Radcliff
-### This paper was written in the course "Rhetoric and Digital Cultures" taught by Dr. Scott Graham, in the University of Texas at Austin's English Department
+#### This paper was written in the course "Rhetoric and Digital Cultures" taught by Dr. Scott Graham, in the University of Texas at Austin's English Department
 
-#### Abstract
+### Abstract
 On April 9, 2019, Facebook released a new memorialization feature for postmortem user
 profiles: the Tributes page. This page is part of the postmortem profile, located on a tab, as to be
 distinct from the now-dead user’s original Timeline. Such features related to death and dying
