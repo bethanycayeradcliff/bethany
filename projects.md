@@ -1,4 +1,4 @@
-[home + about](index.md)  |     [cv](cv.md)    |    [projects and work](projects.md)   |    [contact me](contact.md)
+[home + about](index.md)  |     [cv](cv.md)    |    [projects/writing/work](projects.md)   |    [contact me](contact.md)
 
 
 Hello! Welcome to my projects page. Here you'll find various projects I've worked on.
