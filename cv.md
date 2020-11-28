@@ -33,7 +33,7 @@
 <a name="researchpos"></a>
 #### Research Positions
 
-##### THE HARRY RANSOM CENTER – University of Texas at Austin	*August 2018–present*
+##### THE HARRY RANSOM CENTER – University of Texas at Austin	*August 2019–present*
 ###### Graduate Research Associate
 - Complete offsite patron research requests for archival materials
 - Work shifts at reception desk and at reading room reference desk
@@ -44,7 +44,7 @@
 - Member of privacy policy committee
 - Curation of exhibition focused on sound collections for Black History Month: Discovery and Possibility (Feb. 2020)
 
-##### AUDIANNOTATE (Grant 2019-2020; PI Dr. Tanya Clement, UT-Austin) *August 2018–present*
+##### AUDIANNOTATE (Grant 2019-2020; PI Dr. Tanya Clement, UT-Austin) *August 2019–present*
 ###### Graduate Research Assistant
 - Test and work extensively with audio-editing applications, including Audacity and Sonic Visualiser, using archival audio
 - Created and co-led a user-testing workshop at the Harry Ransom Center to evaluate both Audacity and Sonic Visualiser
