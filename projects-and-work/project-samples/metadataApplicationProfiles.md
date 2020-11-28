@@ -6,7 +6,7 @@
 - [DC Application Profile Overview](./DC-application-profile.pdf)
 
 #### MODS Application Profile
-##### This application profile consist of a MODS-based schema with local terms to better describe oral histories and spoken wrod audio recordings
+##### This application profile consist of a MODS-based schema with local terms to better describe oral histories and spoken word audio recordings
 - [MODS Application Profile Overview](./MODS-application-profile.pdf)
 
 #### VRA Application Profile
