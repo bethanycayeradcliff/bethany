@@ -2,6 +2,8 @@
 
 ### by Bethany Radcliff
 #### This paper was written in the course "Rhetoric and Digital Cultures" taught by Dr. Scott Graham, in the University of Texas at Austin's English Department
+#### This paper was also accepted and presented at MIRS: Multi-disciplinary Information Research Symposium in April 2019 at the University of North Texas School of Information with the title: “Dying on Social Media: Remembering (and Forgetting) Death in the Digital Age”
+
 
 ### Abstract
 On April 9, 2019, Facebook released a new memorialization feature for postmortem user
