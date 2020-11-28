@@ -5,7 +5,7 @@
 
 * ["Platformed Postmortem: A Rhetorical Understanding of Facebook’s Tributes Feature"](projects-and-work/project-samples/platformedPostmortem.md)
 
-* [Tik Tok as a Complicated Public: Navigating the Self Amidst the Tumultuous Digital Space](projects-and-work/project-samples/tikTokAsPublic.md)
+* ["Tik Tok as a Complicated Public: Navigating the Self Amidst the Tumultuous Digital Space"](projects-and-work/project-samples/tikTokAsPublic.md)
 
 * "Reimagining Archival Affect: Ordinary Affects and Networked Creation" (Please contact me for more information on this research)
 
