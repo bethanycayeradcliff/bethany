@@ -24,4 +24,4 @@
 * Metadata Application Profiles
     * [Example application profiles](projects-and-work/project-samples/metadataApplicationProfiles.md)
 
-* Define Print: Group project investigating the rhetoric of privacy policy versions, and proposing to user awareness of policy changes
+* Define Print: Group project investigating the rhetoric of privacy policy versions, and proposal of a solution for user awareness of policy changes
