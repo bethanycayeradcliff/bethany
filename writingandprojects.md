@@ -12,6 +12,6 @@
 * "Annie Dillard as New Materialist Method" (Please contact me for more information on this research)
 
 ## Other Projects
-* * (Fake) ACLS Grant Project: ["Metadata for Networked Archival Connection"](projects-and-work/project-samples/ACLSGrant.md)
+* (Fake) ACLS Grant Project: ["Metadata for Networked Archival Connection"](projects-and-work/project-samples/ACLSGrant.md)
 * [Digital Exhibits](digital-exhibits.md): Digital exhibits completed in coursework
 * Metadata Application Profiles
