@@ -1,7 +1,7 @@
 ## Metadata for Networked Archival Connection (MNAC)
 ### This fake ACLS grant was written for Dr. Tanya Clement's Digital Humanities course
 
-**Grant Abastract:**
+**Grant Abstract:**
 
 Metadata for Networked Archival Connection (MNAC) will create a set of linked data standards
 of relational connections designed to function as a network within the digital space of an archive.
