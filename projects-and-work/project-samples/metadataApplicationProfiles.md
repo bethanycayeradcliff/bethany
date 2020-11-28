@@ -8,3 +8,8 @@
 #### MODS Application Profile
 ##### This application profile consist of a MODS-based schema with local terms to better describe oral histories and spoken wrod audio recordings
 - [MODS Application Profile Overview](./MODS-application-profile.pdf)
+
+#### VRA Application Profile
+##### The purpose of this VRA application profile is to classify and organize information related to house museums
+- [VRA Application Profile Overview)(./VRA-application-profile.pdf)
+
