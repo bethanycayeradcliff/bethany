@@ -1,5 +1,5 @@
 # "A Hostage in Her Own Home: Reframing Louisa May Alcott’s Orchard House"
-## This essay was completed for the course "Digital Toolkits: Hostoricism taught by Dr. Janine Barchas
+## This essay was completed for the course "Digital Toolkits: Historicism taught by Dr. Janine Barchas
 ### This essay was also accepted and presented at Tell-Tale Traces: Living Memory in the United States (April 5, 2019), a conference held by the University of Texas American Studies Department
  
 #### Please reach out is you would like more information about this project. 
