@@ -6,4 +6,4 @@ Hello! Welcome to my projects page. Here you'll find various projects I've worke
 * [Coursework](coursework.html): list of classes taken
 * [Class Writing and Other Projects](writing-projects.md): writing and other projects completed in coursework
 * [Harry Ransom Center](./harry-ransom-center.md): work completed as a graduate research associate at the Harry Ransom Center
-* AudiAnnotate: work completed working on the AudiAnnotate Project
+* [AudiAnnotate](./audiannotate.md): work completed working on the AudiAnnotate Project
