@@ -7,4 +7,4 @@
 
 #### MODS Application Profile
 ##### This application profile consist of a MODS-based schema with local terms to better describe oral histories and spoken wrod audio recordings
-- [MODS Application Profile Overview] 9./MODS-application-profile.pdf)
+- [MODS Application Profile Overview](./MODS-application-profile.pdf)
