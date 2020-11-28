@@ -1,7 +1,7 @@
 # Tik Tok as a Complicated Public: Navigating the Self Amidst the Tumultuous Digital Space
-## This paper was completed in Dr. Amelia Acker's seminar course "Critial Data Studies," fall 2019
+### This paper was completed in Dr. Amelia Acker's seminar course "Critial Data Studies," fall 2019
 
-## Introduction
+#### Introduction
 
 In fall 2019, amid the rise of the social media app Tik Tok—a relaunch and revision of
 the app musical.ly—a certain trend began to present itself in this new digital space (Hermann
