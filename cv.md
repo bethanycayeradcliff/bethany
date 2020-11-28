@@ -17,7 +17,7 @@
 
 ##### UNIVERSITY OF TEXAS AT AUSTIN *(IN PROGRESS: 2018–2021)*
 ###### Master of Arts in English and Master of Science in Information Studies
-- Focus on contemporary women writers, digital projects, metadata, archives, patron services, and sound collections
+- Focus on digital projects, women writers, metadata, archives, patron services, and sound collections
 
 ##### TEXAS A&M UNIVERSITY, College Station, TX	*December 2015*
 - B.A. in English; communication minor; certification in digital humanities
