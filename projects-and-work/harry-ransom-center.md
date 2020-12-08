@@ -1,7 +1,7 @@
 
 # Harry Ransom Center
 
-### Since fall of 2019, I have been a graduate research associate at the Harry Ransom Center. I work in the Reference & Research Services in the Library Division, where I have gained experience in public services, research for patrons, primary source pedagogy, digital access and stewardship work, and grant writing.  
+### Since fall of 2019, I have been a graduate research associate at the Harry Ransom Center. I work in Reference & Research Services, where I have gained experience in public services, research for patrons, primary source pedagogy, digital access and stewardship work, and grant writing.  
 
 #### Public Services Experience
 - I complete offsite patron requests for archival materials and work to communicate with patrons to help them access the materials they need
