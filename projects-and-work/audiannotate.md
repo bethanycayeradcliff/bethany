@@ -17,8 +17,8 @@
 
 #### Conferences and Workshops Presented
 - AudiAnnotate: Linked Data for Sound @ LD4 Conference (July 27, 2020)
-  - Presented on AudiAnnotate, linked data, and project documentation
-  AudiAnnotate Workshop @ DH2020 Conference (July 22, 2020)
+  - [Presented](https://ld42020.sched.com/event/cjKL) on AudiAnnotate, linked data, and project documentation 
+- AudiAnnotate Workshop @ DH2020 Conference (July 22, 2020)
   - Hosted with Dr. Tanya Clement and Brumfield Labs via Zoom for DH2020 AVinDH SIG
   - Created workshop GitHub site as and presented walkthrough of application
 - AudiAnnotate IIIF Virtual Workshop @ Texas Conference on Digital Libraries (May 28, 2020)
