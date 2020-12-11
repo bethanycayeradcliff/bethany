@@ -14,3 +14,16 @@
 - Present at conferences, including DH2020 Conference, Texas Conference on Digital Libraries, and the LD4 Conference
 - Writing reports of grant progress and project status
 - Researching and writing educational lesson plans for bringing audio annotation practices to the classroom
+
+#### Conferences and Workshops Presented
+- AudiAnnotate: Linked Data for Sound @ LD4 Conference (July 27, 2020)
+  - Presented on AudiAnnotate, linked data, and project documentation
+  AudiAnnotate Workshop @ DH2020 Conference (July 22, 2020)
+  - Hosted with Dr. Tanya Clement and Brumfield Labs via Zoom for DH2020 AVinDH SIG
+  - Created workshop GitHub site as and presented walkthrough of application
+- AudiAnnotate IIIF Virtual Workshop @ Texas Conference on Digital Libraries (May 28, 2020)
+  - Hosted via Zoom with Dr. Tanya Clement and Brumfield Labs
+  - Created workshop GitHub site as and presented walkthrough of application
+- AudiAnnotate User Testing Workshop (November 22, 2019)
+  - Hosted at the Harry Ransom Center
+  - Presented and created documentation for workshop to test workflow
