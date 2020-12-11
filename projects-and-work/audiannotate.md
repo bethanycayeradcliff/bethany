@@ -13,3 +13,4 @@
 - Build documentation in GitHub Pages
 - Present at conferences, including DH2020 Conference, Texas Conference on Digital Libraries, and the LD4 Conference
 - Writing reports of grant progress and project status
+- Researching and writing educational lesson plans for bringing audio annotation practices to the classroom
