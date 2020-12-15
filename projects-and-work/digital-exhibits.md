@@ -1,4 +1,4 @@
-[home + about](index.md)  |     [cv](cv.md)    |    [projects](projects.md)   |    [contact me](contact.md)
+[home + about](https://bethanycayeradcliff.github.io/bethany/)  |     [cv](https://bethanycayeradcliff.github.io/bethany/cv.html)    |    [projects/writing/work](https://bethanycayeradcliff.github.io/bethany/projects.html)   |    [contact me](https://bethanycayeradcliff.github.io/bethany/contact.html)
 
 Digital Exhibits
 
