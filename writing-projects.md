@@ -1,3 +1,5 @@
+[home + about](https://bethanycayeradcliff.github.io/bethany/)  |     [cv](https://bethanycayeradcliff.github.io/bethany/cv.html)    |    [projects/writing/work](https://bethanycayeradcliff.github.io/bethany/projects.html)   |    [contact me](https://bethanycayeradcliff.github.io/bethany/contact.html)
+
 # Writing and Projects 
 
 ## Writing Completed in Coursework 
