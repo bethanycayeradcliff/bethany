@@ -1,3 +1,5 @@
+[home + about](index.md)  |     [cv](cv.md)    |    [projects/writing/work](projects.md)   |    [contact me](contact.md)
+
 # Coursework
 
 ## Courses taken at the University of Texas in fulfillment of the dual-degree MA in English + MS in Information Studies program
