@@ -83,7 +83,3 @@
 - Master's Report
 	- Department: English
 	- Professor: Dr. Tanya Clement
-  
-
-	</body>
-</html>
