@@ -28,120 +28,61 @@
 	- Professor: Dr. Scott Graham
 
 ### Summer 2019
+- Database Management
+	- Department: Information Studies
+	- Professor: Dr. Stan Gunn
 	
-      <li>Database Management</li>
-      <ul>
-      <li>Department: Information Studies</li>
-      <li>Professor: Dr. Stan Gunn</li>
-    </ul>
-</ul>
-    </div>
-   
-    <div>
-		<h3>
-			Fall 2019
-		</h3>
-      <ul>
-      <li> Intro to Digital Humanities </li>
-        <ul>
-        <li>Department: English</li>
-        <li>Professor: Dr. Tanya Clement</li>
-    </ul>
-        <li>Critical Data Studies</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Dr. Amelia Acker</li>
-    </ul>
-        <li>Environmental Criticism</li>
-        <ul>
-        <li>Department: English</li>
-        <li>Professor: Dr. Heather Houser</li>
-    </ul>
-</ul>
-    </div>
-  <div>
-		<h3>
-			Spring 2020
-		</h3>
-      <ul>
-      <li>Advanced Audio Preservation</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Prof. Sarah Cunningham</li>
-    </ul>
-        <li>Organizing Information</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Dr. Tine Walzyac</li>
-    </ul>
-        <li>Independent Study</li>
-        <ul>
-        <li>Department: English</li>
-        <li>Professor: Dr. Tanya Clement</li>
-    </ul>
-</ul>
-    </div>
-    <div>
-		<h3>
-			Summer 2020
-		</h3>
-      <ul>
-      <li>Ontology Design</li>
-      <ul>
-      <li>Department: Information Studies</li>
-      <li>Professor: Dr. Sam Oh</li>
-    </ul>
-</ul>
-    </div>
-<div>
-		<h3>
-			Fall 2020
-		</h3>
-      <ul>
-      <li>Digital Libraries</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Prof. Melanie Cofield</li>
-    </ul>
-        <li>Accessible Rhetorics</li>
-        <ul>
-        <li>Department: English/Rhetoric</li>
-        <li>Professor: Dr. Casey Boyle</li>
-    </ul>
-        <li>Sensitizing Theory</li>
-        <ul>
-        <li>Department: Anthropology</li>
-        <li>Professors: Dr. Kathleen Stewart and Dr. Marina Peterson</li>
-    </ul>
-        <li>Individualized Study: Palantir Data and Dynamic Ontologies</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Dr. Amelia Acker</li>
-    </ul>
-</ul>
-    </div>  
-<div>
-		<h3>
-			Upcoming (Spring 2021)
-		</h3>
-      <ul>
-      <li>Media, Memory, and the Archive</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Dr. Caroline Frick</li>
-    </ul>
-        <li>Data Storytelling</li>
-        <ul>
-        <li>Department: Information Studies</li>
-        <li>Professor: Prof. Andrea Cato</li>
-    </ul>
-        <li>Master's Report</li>
-        <ul>
-        <li>Department: English</li>
-        <li>Professor: Dr. Tanya Clement</li>
-    </ul>
-</ul>
-    </div>  
+### Fall 2019
+- Intro to Digital Humanities
+	- Department: English
+	- Professor: Dr. Tanya Clement
+- Critical Data Studies
+	- Department: Information Studies
+	- Professor: Dr. Amelia Acker
+- Environmental Criticism
+	- Department: English
+	- Professor: Dr. Heather Houser
+
+### Spring 2020
+- Advanced Audio Preservation
+	- Department: Information Studies
+	- Professor: Prof. Sarah Cunningham
+- Organizing Information
+	- Department: Information Studies
+	- Professor: Dr. Tine Walzyac
+- Independent Study
+	- Department: English
+	- Professor: Dr. Tanya Clement
+	
+### Summer 2020
+- Ontology Design
+	- Department: Information Studies
+	- Professor: Dr. Sam Oh
+	
+### Fall 2020
+- Digital Libraries
+	- Department: Information Studies
+        - Professor: Prof. Melanie Cofield
+- Accessible Rhetorics
+	- Department: English/Rhetoric
+	- Professor: Dr. Casey Boyle
+- Sensitizing Theory
+	- Department: Anthropology
+	- Professors: Dr. Kathleen Stewart and Dr. Marina Peterson
+- Individualized Study: Palantir Data and Dynamic Ontologies
+	- Department: Information Studies
+	- Professor: Dr. Amelia Acker
+
+### Upcoming (Spring 2021)
+- Media, Memory, and the Archive
+	- Department: Information Studies
+	- Professor: Dr. Caroline Frick
+- Data Storytelling
+	- Department: Information Studies
+	- Professor: Prof. Andrea Cato
+- Master's Report
+	- Department: English
+	- Professor: Dr. Tanya Clement
   
 
 	</body>
