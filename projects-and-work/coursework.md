@@ -10,11 +10,11 @@
 	- Department: English
 	- Professors: Dr. Sam Baker and Dr. Julie Minich
 - Digital Toolkits: Historicism
-	- Department: English</li>
-      	- Professor: Dr. Janine Barchas
+	- Department: English
+	- Professor: Dr. Janine Barchas
 - Archives: Theories and Methods
 	- Department: English/Rhetoric
-      	- Professor: Dr. Mark Longaker
+	- Professor: Dr. Mark Longaker
 
 ### Spring 2019
 - Perspectives on Information
