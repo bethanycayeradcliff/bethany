@@ -19,7 +19,7 @@
 ### Spring 2019
 - Perspectives on Information
 	- Department: Information Studies
-     	- Professor: Dr. Craig Blaha
+	- Professor: Dr. Craig Blaha
 - Theories & Applications of Metadata
 	- Department: Information Studies
 	- Professor: Dr. Amelia Acker
@@ -62,7 +62,7 @@
 ### Fall 2020
 - Digital Libraries
 	- Department: Information Studies
-        - Professor: Prof. Melanie Cofield
+	- Professor: Prof. Melanie Cofield
 - Accessible Rhetorics
 	- Department: English/Rhetoric
 	- Professor: Dr. Casey Boyle
