@@ -1,64 +1,34 @@
-<!DOCTYPE html>
-<html>
-	<body>
-		<h1>
-Coursework
-		</h1>
-		<h2>
-			Courses taken at the University of Texas in fulfillment of the dual-degree MA in English + MS in Information Studies program
-		</h2>
-	<div>
-		<h3>
-			Fall 2018
-		</h3>
-		<h4>
-			Bethany Radcliff
-		</h4>
-    <ul>
-  <li>Disciplinary Inquiries</li>
-      <ul>
-      <li>Department: English</li>
-      <li>Professors: Dr. Sam Baker and Dr. Julie Minich</li>
-    </ul>
-  <li>Digital Toolkits: Historicism</li>
-      <ul>
-      <li>Department: English</li>
-      <li>Professor: Dr. Janine Barchas</li>
-    </ul>
-  <li>Archives: Theories and Methods</li>
-      <ul>
-      <li>Department: English/Rhetoric</li>
-      <li>Professor: Dr. Mark Longaker</li>
-    </ul>
-</ul>
-	</div>
-    <div>
-		<h3>
-			Spring 2019
-		</h3>
-      <ul>
-      <li>Perspectives on Information</li>
-      <ul>
-      <li>Department: Information Studies</li>
-      <li>Professor: Dr. Craig Blaha</li>
-    </ul>
-  <li>Theories & Applications of Metadata</li>
-      <ul>
-      <li>Department: Information Studies</li>
-      <li>Professor: Dr. Amelia Acker</li>
-    </ul>
-  <li>Rhetoric & Digital Cultures</li>
-      <ul>
-      <li>Department: English/Rhetoric</li>
-      <li>Professor: Dr. Scott Graham</li>
-    </ul>
-</ul>
-    </div>
-    <div>
-		<h3>
-			Summer 2019
-		</h3>
-      <ul>
+# Coursework
+
+## Courses taken at the University of Texas in fulfillment of the dual-degree MA in English + MS in Information Studies program
+
+### Fall 2018
+
+#### Bethany Radcliff
+ 
+- Disciplinary Inquiries
+	- Department: English
+	- Professors: Dr. Sam Baker and Dr. Julie Minich
+- Digital Toolkits: Historicism
+	- Department: English</li>
+      	- Professor: Dr. Janine Barchas
+- Archives: Theories and Methods
+	- Department: English/Rhetoric
+      	- Professor: Dr. Mark Longaker
+
+### Spring 2019
+- Perspectives on Information
+	- Department: Information Studies
+     	- Professor: Dr. Craig Blaha
+- Theories & Applications of Metadata
+	- Department: Information Studies
+	- Professor: Dr. Amelia Acker
+- Rhetoric & Digital Cultures
+	- Department: English/Rhetoric
+	- Professor: Dr. Scott Graham
+
+### Summer 2019
+	
       <li>Database Management</li>
       <ul>
       <li>Department: Information Studies</li>
