@@ -2,4 +2,4 @@
 
 Digital Exhibits
 
-[Issues of Incarceration in the Southern United States: A Mini Exhibit](incarceration-exhibit.md)
+[Issues of Incarceration in the Southern United States: A Mini Exhibit](projects-and-work/incarceration-digital-exhibit.html)
