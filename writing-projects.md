@@ -21,7 +21,7 @@
 ## Other Projects
 * (Fake) ACLS Grant Project: ["Metadata for Networked Archival Connection"](projects-and-work/project-samples/ACLSGrant.md)
 
-* [Digital Exhibits](digital-exhibits.md): Digital exhibits completed in coursework
+* [Digital Exhibits](projects-and-work/digital-exhibits.md): Digital exhibits completed in coursework
 
 * Metadata Application Profiles
     * [Example application profiles](projects-and-work/project-samples/metadataApplicationProfiles.md)
